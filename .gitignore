@@ -1,0 +1,15 @@
+# : IntelliJ
+out/
+.idea/
+*.iml
+
+
+# : Log file
+*.log
+
+
+# OS generated files
+.DS_Store
+
+# XCODE
+.xcodeproj
